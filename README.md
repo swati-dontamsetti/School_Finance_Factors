@@ -54,24 +54,24 @@ Figure 1<br>
 ![figure1](Images/Picture1.png)<br>
 Figure 2<br>
 ![figure2](Images/Picture2.png)<br>
-Figure 3
+Figure 3<br>
 ![figure3.1](Images/Picture3.1.png)<br>
 ![figure3.2](Images/Picture3.2.png)<br>
 ![figure3.3](Images/Picture3.3.png)<br>
 ![figure3.4](Images/Picture3.4.png)<br>
-Figure 4
+Figure 4<br>
 ![figure4](Images/Picture4.png)<br>
-Figure 5
+Figure 5<br>
 ![figure5](Images/Picture5.png)<br>
-Figure 6
+Figure 6<br>
 ![figure6](Images/Picture6.png)<br>
-Figure 7
+Figure 7<br>
 ![figure7](Images/Picture7.png)<br>
-Figure 8
+Figure 8<br>
 ![figure8.1](Images/Picture8.1.png)<br>
 ![figure8.2](Images/Picture8.2.png)<br>
 ![figure8.3](Images/Picture8.3.png)<br>
 ![figure8.4](Images/Picture8.4.png)<br>
-Figure 9
+Figure 9<br>
 ![figure9.1](Images/Picture9.1.png)<br>
 ![figure9.2](Images/Picture9.2.png)<br>
