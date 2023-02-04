@@ -12,7 +12,7 @@ Education is meant to be the great equalizer that will allow all children, regar
 
 ## Methods
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After cleaning and combining my different datasets based on district ID, I am left with 176 districts to analyze. I run three different multiple regressions on increasingly more specific models. To do this, I must first check that my data meet the assumptions of a regression equation. The base model for my multiple regression is the following:<br>
-<blockquote>H_o: β_PerPup$ = β_StuTeachRat = β_MedTeacSal = β_AvgTeachExpYr = β_%FRL = 0<br>
+<blockquote>H_o: β_PerPup$ = β_StuTeachRat = β_MedTeacSal = β_AvgTeachExpYr = β_%FRL = 0<br><br>
 H_a: β_PerPup$ ≠ β_StuTeachRat ≠ β_MedTeacSal ≠ β_AvgTeachExpYr ≠ β_%FRL ≠ 0</blockquote>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am looking to analyze how significant the amount of money per pupil, the student-teacher ratio, the median teacher salary, average years of teaching experience, and the percent of students on free-and-reduced lunch in each district are towards that district’s school ranking. In models 2 and 3, I look further into specific factors of per-pupil spending and various special education teachers and support staff that also make up a school. My full model, in comparison, has 17 dependent variables.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1 shows that my independent variable, School Rank, has slight peaks above and below the center, but the data is normally distributed without any outliers. Moreover, while Graduation Rate (Figure 2) does have numerous outliers, the state test scores (Figure 3) do not, and with more weight given to the test scores than the graduation rate in School Rank, this seems to normalize.<br>
