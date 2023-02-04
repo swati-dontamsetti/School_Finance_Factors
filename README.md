@@ -48,3 +48,30 @@ H_a: β_PerPup$≠β_StuTeachRat≠β_MedTeacSal≠β_AvgTeachExpYr≠β_%ClassS
 <blockquote>Attendance, social work, health and guidance services, educational media/school library services and child study team services. … This area also includes the costs associated with physical and mental health services that are not direct instruction, but are nevertheless provided to students, such as supervision of health services, health appraisal (including screening for vision, communicable diseases, and hearing deficiencies), screening for psychiatric services, periodic health examinations, emergency injury and illness care, dental services, nursing services, and communications with parents and medical officials. The expenditures of the guidance office includes counseling, record maintenance, and placement services. The costs for the child study team include salaries and benefits for members related to the development and evaluation of student individualized education programs (IEPs). … School library services include books repairs, audiovisual services, educational television services, and computer assisted instruction services. (State of New Jersey Department of Education, p. 7)</blockquote>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taken together, support services and support personnel are the services and staff members who supplement the teaching process by assessing and improving students’ well-being. And model 2’s results show that the percentage of per-pupil spending that goes towards class supplies and support services has the most significant positive effect on School Rank (164.7 and 64.3, respectively).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the analysis results, we can conclude that school districts that spend more of their money on classroom supplies, whole-child support services, and retaining high-quality support personnel will be able to increase the academic achievement and graduation rate (the components of school rank) of their students. As a state, we need to encourage districts to focus more on taking care of the whole child, not just their classroom performance, but their social and emotional well-being are equally important. The literature supports this finding; when districts care for their students’ mental and emotional health, they perform better academically.
+
+## Figures
+Figure 1<br>
+![figure1](Images/Picture1.png)<br>
+Figure 2<br>
+![figure2](Images/Picture2.png)<br>
+Figure 3
+![figure3.1](Images/Picture3.1.png)<br>
+![figure3.2](Images/Picture3.2.png)<br>
+![figure3.3](Images/Picture3.3.png)<br>
+![figure3.4](Images/Picture3.4.png)<br>
+Figure 4
+![figure4](Images/Picture4.png)<br>
+Figure 5
+![figure5](Images/Picture5.png)<br>
+Figure 6
+![figure6](Images/Picture6.png)<br>
+Figure 7
+![figure7](Images/Picture7.png)<br>
+Figure 8
+![figure8.1](Images/Picture8.1.png)<br>
+![figure8.2](Images/Picture8.2.png)<br>
+![figure8.3](Images/Picture8.3.png)<br>
+![figure8.4](Images/Picture8.4.png)<br>
+Figure 9
+![figure9.1](Images/Picture9.1.png)<br>
+![figure9.2](Images/Picture9.2.png)<br>
